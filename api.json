@@ -1,0 +1,499 @@
+{
+  "category": "ATMOSPHERIC_PHENOMENON",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/ball-lightning",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "ball-lightning",
+    "name": "Ball Lightning",
+    "aliases": [
+      {
+        "name": "Lightning Ball",
+        "language": "English"
+      },
+      {
+        "name": "Kugelblitz",
+        "language": "German"
+      },
+      {
+        "name": "Foudre en Boule",
+        "language": "French"
+      }
+    ],
+    "category": "ATMOSPHERIC_PHENOMENON",
+    "subcategory": "Electrical",
+    "tags": [
+      "atmospheric",
+      "electrical",
+      "plasma",
+      "natural-phenomenon",
+      "rare",
+      "scientific-mystery",
+      "luminous"
+    ],
+    "status": "confirmed-unexplained",
+    "description": {
+      "summary": "A rare atmospheric electrical phenomenon appearing as luminous, spherical objects that float through air during thunderstorms. Scientifically confirmed but not fully understood.",
+      "full": "Ball lightning is an unexplained atmospheric electrical phenomenon described as luminous, spherical objects that vary from pea-sized to several meters in diameter. Typically appearing during thunderstorms, these glowing orbs have been reported to float or move erratically through the air, pass through solid objects, and last from seconds to minutes before disappearing—sometimes silently, sometimes with an explosion. Despite centuries of eyewitness reports and recent photographic evidence, the physical mechanism behind ball lightning remains poorly understood. Various theories involve plasma physics, silicon vaporization, microwave cavities, and chemical reactions, but no single explanation fully accounts for all reported characteristics. The phenomenon is real but represents one of nature's most enigmatic displays."
+    },
+    "etymology": {
+      "origin": "English descriptive term based on spherical appearance and association with lightning",
+      "meaning": "Ball-shaped lightning phenomenon",
+      "first_use": "Late 1800s in scientific literature"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "ATMOSPHERIC_PHENOMENON",
+      "type": "Electrical",
+      "subtype": "Plasma/Luminous",
+      "variant": "Natural"
+    },
+    "related_phenomena": [
+      {
+        "id": "st-elmos-fire",
+        "name": "St. Elmo's Fire",
+        "relationship": "related",
+        "description": "Electrical weather phenomenon creating luminous plasma"
+      },
+      {
+        "id": "sprites-jets",
+        "name": "Upper-atmospheric Lightning",
+        "relationship": "related",
+        "description": "High-altitude electrical discharges"
+      },
+      {
+        "id": "will-o-wisp",
+        "name": "Will-o'-the-wisp",
+        "relationship": "often_confused",
+        "description": "May explain some historical sightings"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "size": {
+        "min": 0.01,
+        "max": 2.0,
+        "typical": "0.1 to 0.4",
+        "unit": "meters",
+        "confidence": "medium"
+      },
+      "coloration": [
+        "white",
+        "blue",
+        "yellow",
+        "orange",
+        "red",
+        "green (rare)"
+      ],
+      "features": [
+        {
+          "feature": "Shape",
+          "description": "Spherical or oval, occasionally pear-shaped",
+          "frequency": "always"
+        },
+        {
+          "feature": "Luminosity",
+          "description": "Self-luminous, various colors, brightness varies",
+          "frequency": "always"
+        },
+        {
+          "feature": "Movement",
+          "description": "Floats, drifts, or moves erratically; may follow air currents or electromagnetic fields",
+          "frequency": "common"
+        },
+        {
+          "feature": "Duration",
+          "description": "Typically lasts 1-5 seconds, rarely up to minutes",
+          "frequency": "variable"
+        }
+      ],
+      "morphology": "Luminous spherical plasma or energetic phenomenon, appears to have defined edges"
+    },
+    "properties": [
+      {
+        "property": "Temperature",
+        "description": "Appears hot but witnesses report variable heat effects",
+        "evidence_level": "reported"
+      },
+      {
+        "property": "Electromagnetic",
+        "description": "May interfere with electrical equipment",
+        "evidence_level": "documented"
+      },
+      {
+        "property": "Penetration",
+        "description": "Reported to pass through glass, walls, and metal (disputed)",
+        "evidence_level": "reported"
+      },
+      {
+        "property": "Sound",
+        "description": "May produce hissing, crackling, or buzzing; sometimes silent",
+        "evidence_level": "documented"
+      }
+    ],
+    "behavior": {
+      "formation": "Typically during thunderstorms, occasionally without visible lightning",
+      "movement_pattern": "Floats horizontally at roughly human height, may follow air currents or walls",
+      "dissipation": [
+        "Silent fading",
+        "Explosion with loud bang",
+        "Absorption into objects",
+        "Division into smaller spheres"
+      ],
+      "environmental_conditions": [
+        "Thunderstorm activity",
+        "High electrical charge in atmosphere",
+        "Occasionally during earthquakes",
+        "Rarely in clear weather"
+      ]
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Worldwide phenomenon, reported wherever thunderstorms occur",
+      "continents": ["All continents"],
+      "occurrence": "Extremely rare; estimated 1 in 10,000 people witness ball lightning in lifetime"
+    },
+    "temporal": {
+      "first_recorded": {
+        "date": "Ancient times",
+        "circa": true,
+        "source": "Historical records from various cultures"
+      },
+      "scientific_recognition": {
+        "date": "1960s",
+        "description": "Gradually accepted as real phenomenon despite skepticism"
+      },
+      "photographic_evidence": {
+        "date": "2012",
+        "description": "First spectroscopic analysis of ball lightning (Lanzhou, China)"
+      }
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Reported across all cultures with thunderstorm activity",
+      "earliest_accounts": "Ancient Greek and Roman texts mention fiery spheres during storms",
+      "scientific_skepticism": "Long dismissed as optical illusion, retinal afterimage, or hallucination"
+    },
+    "timeline": [
+      {
+        "date": "Ancient",
+        "event": "Early written accounts",
+        "significance": "Greek, Roman, and medieval chronicles describe fiery balls during storms",
+        "source": "Historical texts"
+      },
+      {
+        "date": "1638",
+        "event": "Great Thunderstorm of Widecombe",
+        "significance": "Ball lightning during church service in England, well-documented",
+        "source": "Contemporary accounts"
+      },
+      {
+        "date": "1753",
+        "event": "Georg Richmann death",
+        "significance": "Russian scientist possibly killed by ball lightning during experiment",
+        "source": "Historical records"
+      },
+      {
+        "date": "1895",
+        "event": "Scientific papers emerge",
+        "significance": "Physicists begin systematic study despite skepticism",
+        "source": "Scientific journals"
+      },
+      {
+        "date": "1960s",
+        "event": "Increased scientific acceptance",
+        "significance": "Accumulation of credible reports leads to serious research",
+        "source": "Scientific literature"
+      },
+      {
+        "date": "2006",
+        "event": "Brazilian laboratory creation",
+        "significance": "Researchers create ball-lightning-like phenomenon in lab",
+        "source": "Physical Review Letters"
+      },
+      {
+        "date": "2012-07-23",
+        "event": "First spectroscopic analysis",
+        "significance": "Chinese researchers accidentally capture ball lightning on spectrometer",
+        "source": "Physical Review Letters, 2014"
+      },
+      {
+        "date": "2014",
+        "event": "Spectroscopic data published",
+        "significance": "First scientific data on ball lightning composition",
+        "source": "Physical Review Letters"
+      }
+    ],
+    "modern_era": "Ball lightning is now accepted as real but remains poorly understood. Research focuses on laboratory recreation and theoretical models."
+  },
+
+  "observations": {
+    "statistics": {
+      "total_reported": 10000,
+      "scientifically_documented": 100,
+      "photographed": 5,
+      "spectroscopically_analyzed": 1,
+      "date_range": {
+        "earliest": "Ancient",
+        "latest": "2026"
+      }
+    },
+    "notable": [
+      {
+        "id": "ball-lightning-lanzhou-2012",
+        "name": "Lanzhou Spectroscopic Observation",
+        "date": {
+          "value": "2012-07-23",
+          "precision": "exact"
+        },
+        "location": {
+          "description": "Qinghai Plateau, near Lanzhou",
+          "country": "China",
+          "region": "Gansu Province",
+          "coordinates": {
+            "latitude": 36.05,
+            "longitude": 103.82,
+            "precision": "approximate"
+          }
+        },
+        "witnesses": {
+          "count": 2,
+          "types": ["Scientists"],
+          "credibility_factors": ["Scientific equipment", "Spectroscopic data", "Video recording"]
+        },
+        "description": "Chinese researchers studying regular lightning accidentally captured ball lightning on video and spectrometer. The white, spherical object appeared after lightning strike, lasted 1.64 seconds, and moved horizontally. Spectroscopic analysis revealed silicon, iron, and calcium, supporting silicon vaporization theory.",
+        "conditions": {
+          "weather": "Thunderstorm",
+          "visibility": "Good",
+          "time_of_day": "Night",
+          "duration": "1.64 seconds"
+        },
+        "evidence": [
+          "Video footage",
+          "Spectroscopic data",
+          "Scientific publication"
+        ],
+        "credibility": {
+          "rating": "confirmed",
+          "factors": [
+            "Scientific instrumentation",
+            "Spectroscopic analysis",
+            "Peer-reviewed publication",
+            "Objective data"
+          ],
+          "notes": "First and only spectroscopic analysis of ball lightning to date"
+        },
+        "sources": [
+          "Cen, J., et al. (2014). Physical Review Letters, 112(3)"
+        ],
+        "featured": true
+      },
+      {
+        "id": "ball-lightning-widecombe-1638",
+        "name": "Great Thunderstorm of Widecombe",
+        "date": {
+          "value": "1638-10-21",
+          "precision": "exact"
+        },
+        "location": {
+          "description": "Church of St Pancras, Widecombe-in-the-Moor",
+          "country": "England",
+          "region": "Devon"
+        },
+        "description": "During church service, ball lightning entered church during thunderstorm, killed four people, injured 60. Multiple witnesses described glowing sphere moving through church. One of best-documented historical cases.",
+        "credibility": {
+          "rating": "high",
+          "notes": "Multiple witnesses, contemporary documentation, physical damage recorded"
+        },
+        "featured": true
+      }
+    ]
+  },
+
+  "evidence": {
+    "photographic": [
+      {
+        "id": "lanzhou-2012-video",
+        "type": "video",
+        "name": "Lanzhou Video and Spectroscopy",
+        "date": "2012-07-23",
+        "description": "Video and spectroscopic data of ball lightning",
+        "status": "confirmed",
+        "analysis": "Peer-reviewed scientific analysis, spectroscopy shows silicon, iron, calcium"
+      }
+    ],
+    "scientific_data": [
+      {
+        "type": "spectroscopy",
+        "name": "Lanzhou Spectroscopic Analysis",
+        "date": "2012",
+        "description": "First spectroscopic data showing elemental composition",
+        "status": "confirmed"
+      }
+    ],
+    "laboratory": [
+      {
+        "type": "recreation",
+        "name": "Brazilian Silicon Experiment",
+        "date": "2006",
+        "description": "Researchers created ball-lightning-like phenomenon using silicon",
+        "status": "partial recreation"
+      }
+    ]
+  },
+
+  "theories": {
+    "scientific": [
+      {
+        "name": "Silicon Vaporization",
+        "description": "Lightning striking silica-containing soil vaporizes silicon, creating glowing orb of oxidizing silicon vapor",
+        "proponents": ["John Abrahamson", "James Dinniss"],
+        "evidence_cited": ["2012 spectroscopic data showing silicon", "Laboratory recreations", "Matches duration and appearance"],
+        "year_proposed": "2000"
+      },
+      {
+        "name": "Microwave Cavity",
+        "description": "Ball lightning is microwave radiation trapped in plasma sphere",
+        "proponents": ["Pyotr Kapitsa"],
+        "evidence_cited": ["Explains electromagnetic effects", "Movement patterns"],
+        "year_proposed": "1955"
+      },
+      {
+        "name": "Plasma Theory",
+        "description": "Self-contained plasma vortex sustained by atmospheric conditions",
+        "evidence_cited": ["Luminosity", "Duration", "Electrical properties"]
+      },
+      {
+        "name": "Atmospheric Maser",
+        "description": "Microwave amplification by stimulated emission in atmosphere",
+        "evidence_cited": ["Energy considerations", "Electromagnetic properties"]
+      },
+      {
+        "name": "Nanoparticle Theory",
+        "description": "Network of nanoparticles created by lightning discharge",
+        "evidence_cited": ["2006 laboratory experiments", "Spectroscopic data"]
+      }
+    ],
+    "skeptical": [
+      {
+        "name": "Retinal Afterimage",
+        "description": "Not real phenomenon, but optical illusion from bright lightning flash",
+        "status": "Largely disproven by multiple witnesses and photographic evidence"
+      },
+      {
+        "name": "Misidentification",
+        "description": "Various other phenomena mistaken for ball lightning",
+        "evidence_cited": ["St. Elmo's fire", "Corona discharge", "Reflections"]
+      }
+    ]
+  },
+
+  "cultural": {
+    "folklore": {
+      "interpretations": [
+        "Spirits or ghosts (various cultures)",
+        "Omens or portents",
+        "Will-o'-the-wisp legends may include ball lightning",
+        "Divine manifestations"
+      ],
+      "historical_significance": "Contributed to supernatural beliefs before scientific understanding"
+    },
+    "popular_culture": {
+      "literature": [
+        "Referenced in science fiction",
+        "Mystery and thriller novels",
+        "Scientific texts and papers"
+      ],
+      "film_tv": [
+        "Documentary features on atmospheric phenomena",
+        "Educational programming"
+      ],
+      "scientific_interest": [
+        "Subject of numerous research papers",
+        "Active area of atmospheric physics research",
+        "Laboratory recreation attempts"
+      ]
+    }
+  },
+
+  "research": {
+    "researchers": [
+      {
+        "name": "John Abrahamson",
+        "affiliation": "University of Canterbury, New Zealand",
+        "contribution": "Silicon vaporization theory (2000)",
+        "period": "2000-present"
+      },
+      {
+        "name": "Jianyong Cen",
+        "affiliation": "Lanzhou Institute of Physics",
+        "contribution": "First spectroscopic observation (2012)",
+        "period": "2010s"
+      },
+      {
+        "name": "Stanley Singer",
+        "affiliation": "Independent researcher",
+        "contribution": "Comprehensive analysis of reports, database compilation",
+        "period": "1960s-1970s"
+      }
+    ],
+    "ongoing_studies": "Active research in atmospheric physics, plasma physics, and laboratory recreation attempts. Focus on understanding formation mechanisms and energy sources."
+  },
+
+  "sources": [
+    {
+      "id": "cen-2014",
+      "type": "article",
+      "title": "Observation of the Optical and Spectral Characteristics of Ball Lightning",
+      "authors": ["Jianyong Cen", "Ping Yuan", "Simin Xue"],
+      "publication": "Physical Review Letters",
+      "date": "2014",
+      "volume": "112",
+      "issue": "3",
+      "doi": "10.1103/PhysRevLett.112.035001"
+    },
+    {
+      "id": "abrahamson-2000",
+      "type": "article",
+      "title": "Ball lightning caused by oxidation of nanoparticle networks from normal lightning strikes on soil",
+      "authors": ["John Abrahamson", "James Dinniss"],
+      "publication": "Nature",
+      "date": "2000",
+      "volume": "403",
+      "pages": "519-521"
+    },
+    {
+      "id": "stenhoff-1999",
+      "type": "book",
+      "title": "Ball Lightning: An Unsolved Problem in Atmospheric Physics",
+      "authors": ["Mark Stenhoff"],
+      "publication": "Kluwer Academic/Plenum Publishers",
+      "date": "1999",
+      "isbn": "978-0306461507"
+    }
+  ]
+}
