@@ -1,436 +1,227 @@
 # Ball Lightning
 
-> *"Nature's most enigmatic light show"*
+> An unexplained atmospheric electrical phenomenon described as a luminous, typically spherical object ranging from a few centimetres to over a metre across, usually associated with thunderstorms and lasting from a fraction of a second to over a minute.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-confirmed--unexplained-yellow)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-unverified-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `ball-lightning` |
 | **Category** | ATMOSPHERIC_PHENOMENON |
-| **Classification** | Electrical / Plasma |
-| **First Recorded** | Ancient times |
-| **Distribution** | Worldwide |
-| **Status** | Real but poorly understood |
+| **Subcategory** | Unexplained luminous atmospheric phenomenon |
+| **First recorded** | 1638-10-21 |
+| **Primary range** | Ball lightning has been reported globally, with high concentrations of reports in Europe, Russia, North America, and East Asia |
+| **Status** | unverified |
 
 ---
-
 ## Overview
 
-Ball lightning is an unexplained atmospheric electrical phenomenon described as luminous, spherical objects that vary from pea-sized to several meters in diameter. Typically appearing during thunderstorms, these glowing orbs have been reported to float or move erratically through the air, pass through solid objects, and last from seconds to minutes before disappearing—sometimes silently, sometimes with an explosion.
-
-Despite centuries of eyewitness reports and recent photographic evidence, the physical mechanism behind ball lightning remains poorly understood. Various theories involve plasma physics, silicon vaporization, microwave cavities, and chemical reactions, but no single explanation fully accounts for all reported characteristics.
-
-**Status**: The phenomenon is **scientifically confirmed as real** (spectroscopic data captured in 2012), but the underlying physics remains one of nature's great mysteries.
+Ball lightning is a rare and poorly understood atmospheric electrical phenomenon described as a luminous, usually spherical object ranging from pea-sized to several metres across. It is most often reported during severe thunderstorms, frequently appearing within seconds of a nearby cloud-to-ground lightning strike. Reported lifetimes range from less than a second to over a minute — much longer than ordinary lightning. Witnesses describe the balls as moving horizontally a few metres per second, sometimes drifting against the wind, often passing through closed windows, walls, or aircraft fuselages, and ending either by silently fading or by a small explosive report. Despite centuries of eyewitness accounts — including the death of the Russian academician Georg Wilhelm Richmann in 1753 during atmospheric-electricity experiments in Saint Petersburg, the 1969 in-cabin observation by R. C. Jennison aboard a transatlantic aircraft, and the 2012 spectroscopic measurement of a natural ball-lightning event by Cen Jianyong, Yuan Ping, and Xue Simin in Qinghai (Lanzhou Northwest Normal University team) — there is no widely accepted physical explanation. Proposed mechanisms include vaporised silicon nanoparticle aerosols, microwave-cavity plasma trapped by the lightning channel, oxidising metal aerosols, and rare hallucination effects induced by transient magnetic fields from nearby strikes. The 2012 Qinghai spectrum showed strong emission lines of silicon, iron, and calcium — supporting the silicon-vaporisation hypothesis advanced by Abrahamson and Dinniss (2000). Major ongoing research is conducted by atmospheric physicists at institutions in Russia, China, and the United States.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Globe lightning | English |  |
+| Kugelblitz | German | 'Sphere lightning' |
+| Foudre globulaire | French |  |
+| Шаровая молния (sharovaya molniya) | Russian | 'Spherical lightning' |
 
-### Primary Name
-- **Ball Lightning** — English descriptive term based on spherical appearance and association with lightning.
+## Etymology
 
-### Alternative Names
-
-| Name | Language | Meaning |
-|------|----------|---------|
-| Kugelblitz | German | "Ball lightning" |
-| Foudre en Boule | French | "Ball lightning" |
-| Lightning Ball | English | Alternative form |
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: ATMOSPHERIC_PHENOMENON
-├── Type: Electrical
-├── Subtype: Plasma/Luminous
-└── Variant: Natural
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| St. Elmo's Fire | Related | Electrical weather phenomenon creating luminous plasma |
-| Upper-atmospheric Lightning | Related | Sprites, jets, and other high-altitude electrical discharges |
-| Will-o'-the-wisp | Often confused | May explain some historical sightings |
+- **Origin**: English compound: 'ball' + 'lightning'. Literal description of the spherical luminous form.
+- **Meaning**: A spherical lightning-like luminous object.
+- **First use**: English term in widespread use from the 19th century; phenomenon noted in classical antiquity (e.g. Aristotle).
 
 ---
+## Related Phenomena
 
-## Characteristics
-
-### Physical Description
-
-**Typical Appearance**:
-- **Size**: 10-40 cm diameter (range: 1 cm to 2 meters)
-- **Shape**: Spherical or oval, occasionally pear-shaped
-- **Color**: White, blue, yellow, orange, red; rarely green
-- **Luminosity**: Self-luminous, brightness varies
-- **Duration**: Typically 1-5 seconds, rarely up to minutes
-
-### Reported Properties
-
-| Property | Description | Evidence Level |
-|----------|-------------|----------------|
-| Movement | Floats horizontally, drifts, or moves erratically | Documented |
-| Penetration | Reported to pass through glass, walls (disputed) | Reported |
-| Temperature | Appears hot, variable heat effects | Reported |
-| Sound | Hissing, crackling, buzzing, or silent | Documented |
-| EM interference | May affect electrical equipment | Documented |
-
-### Behavioral Patterns
-
-**Formation**:
-- Primarily during thunderstorms
-- Occasionally without visible lightning
-- Rarely during earthquakes or in clear weather
-
-**Movement**:
-- Floats roughly at human height
-- May follow air currents
-- Sometimes follows walls or conductive surfaces
-- Erratic or purposeful-seeming paths
-
-**Dissipation**:
-- Silent fading (most common)
-- Explosion with loud bang
-- Absorption into objects
-- Division into smaller spheres
+- [Lightning](../lightning/) — _related_: Ordinary cloud-to-ground or cloud-to-cloud electrical discharge; ball lightning often follows shortly after a strike.
+- [St. Elmo's Fire](../st-elmos-fire/) — _similar_: Glow discharge on pointed conductors during storms; sometimes confused with ball lightning.
+- [Earthquake lights](../earthquake-lights/) — _similar_: Luminous phenomena reported around seismic events.
+- [Will-o'-the-wisp / ignis fatuus](../will-o-the-wisp/) — _similar_: Marsh-gas luminescence sometimes confused with ball lightning in older accounts.
 
 ---
+## Physical Description
 
-## Distribution & Occurrence
+- **Morphology**: A glowing sphere of indeterminate composition; spectral analysis of one well-documented natural event (Qinghai 2012) detected silicon, iron, and calcium emission lines.
 
-### Geographic Range
-**Worldwide** — Reported wherever thunderstorms occur
+### Features
 
-### Rarity
-Extremely rare: estimated **1 in 10,000 people** witness ball lightning in their lifetime
+| Feature | Description | Frequency |
+|---|---|---|
+| Spherical or near-spherical shape | Most commonly described as a sphere; occasionally elongated or irregular. | always |
+| Diameter typically 10-30 cm | Most reports give 10-30 cm; the full range is roughly 1 cm to 1 m, with rare claims to several metres. | common |
+| Brightness comparable to a domestic lamp | Approximately the brightness of a 60-100 W incandescent bulb (Stenhoff 1999). | common |
+| Red, orange, or yellow colour (most common) | Other colours including white, blue, and green are also reported. | common |
+| Slow horizontal motion | Travels typically 1-5 m/s, often horizontal, sometimes against the wind. | common |
+| Termination by silent fade or small explosion | Ends silently in roughly half of reports; otherwise terminates with a small explosive report. | common |
 
-### Environmental Conditions
-- Thunderstorm activity (most common)
-- High electrical charge in atmosphere
-- Occasionally during earthquakes
-- Rarely in clear weather
+## Reported Abilities
+
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Passing through solid barriers | Reports describe ball lightning entering rooms through closed windows or chimneys without obvious damage. | occasional | reported |
+| Persistence longer than ordinary lightning | Lifetimes of seconds to over a minute, vs. ordinary lightning's milliseconds. | common | reported |
+| Causing localised damage on termination | Sometimes leaves scorch marks, melts metal, or fatally injures observers (e.g. Richmann 1753). | occasional | documented |
+
+## Behavior
+
+- **Activity**: variable
+- **Disposition**: neutral
+- **Social structure**: solitary
+- **Habitat**: thunderstorm cells, in the immediate aftermath of cloud-to-ground lightning strikes, occasionally aircraft cabins, ships, and indoor spaces
 
 ---
+## Distribution
 
+Ball lightning has been reported globally, with high concentrations of reports in Europe, Russia, North America, and East Asia. Reports are not strongly geographically constrained but track regions with frequent thunderstorm activity and engaged scientific reporting cultures.
+
+### Hotspots
+
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Saint Petersburg (1753 Richmann incident) | Saint Petersburg, Russia |  | 1753-08-06 |
+| Qinghai Plateau (2012 spectral measurement) | Qinghai, China |  | 2012-07 |
+
+---
 ## Historical Timeline
 
-### From Myth to Science
-
 | Date | Event | Significance |
-|------|-------|--------------|
-| Ancient | Early accounts | Greek, Roman, medieval chronicles describe fiery balls |
-| 1638-10-21 | Great Thunderstorm of Widecombe | Ball lightning in church, 4 killed, well-documented |
-| 1753 | Georg Richmann death | Russian scientist possibly killed by ball lightning |
-| 1895 | Scientific papers emerge | Physicists begin systematic study despite skepticism |
-| 1960s | Scientific acceptance | Accumulation of credible reports leads to serious research |
-| **2006** | **Laboratory creation** | Brazilian researchers create ball-lightning-like phenomenon |
-| **2012-07-23** | **Spectroscopic capture** | Chinese researchers accidentally record ball lightning |
-| **2014** | **Data published** | First scientific data on composition (silicon, iron, calcium) |
-
-### The 2012 Breakthrough 🎯
-
-On July 23, 2012, Chinese researchers studying regular lightning on the Qinghai Plateau accidentally captured ball lightning on both video and spectrometer—the first and only time this has been achieved.
-
-**What they observed**:
-- White spherical object
-- Appeared after lightning strike
-- Lasted 1.64 seconds
-- Moved horizontally about 15 meters
-- Spectroscopy revealed silicon, iron, and calcium
-
-**Significance**: This provided the first objective scientific data on ball lightning's composition, supporting the silicon vaporization theory.
+|---|---|---|
+| 1638-10-21 | Great Thunderstorm at Widecombe-in-the-Moor, Devon, England — a luminous fireball reportedly enters the parish church killing four and injuring sixty. | Often cited as one of the earliest detailed English-language accounts. |
+| 1753-08-06 | Russian academician Georg Wilhelm Richmann is killed in Saint Petersburg by what is generally interpreted as a ball-lightning event during atmospheric-electricity experiments with a kite. | First scientifically reported fatal ball-lightning event. |
+| 1838 | François Arago publishes a major review of luminous atmospheric phenomena (later collected in his Œuvres complètes), assembling many ball-lightning reports. | First major scientific synthesis. |
+| 1963 | R. C. Jennison observes a glowing sphere ~22 cm in diameter inside the cabin of a passenger aircraft over the Atlantic. | Widely cited modern in-aircraft observation. |
+| 2000 | John Abrahamson and James Dinniss publish the 'silicon nanoparticle' hypothesis in Nature. | Influential modern theoretical proposal. |
+| 2012-07 | Cen Jianyong, Yuan Ping, and Xue Simin (Lanzhou Northwest Normal University) record the first optical spectrum of natural ball lightning during a field campaign on the Qinghai Plateau. | First spectroscopic measurement of a natural event; consistent with the silicon-vaporisation hypothesis. |
 
 ---
+## Notable Sightings
+
+### Death of Georg Wilhelm Richmann ⭐
+> **Date**: 1753-08-06  
+> **Location**: Saint Petersburg, Russian Empire — Richmann's home laboratory  
+> **Witnesses**: 2 (Georg Wilhelm Richmann (Russian Academy of Sciences), Sokolov (engraver, eyewitness))  
+> **Evidence**: Contemporary Saint Petersburg Academy of Sciences reports; Sokolov's eyewitness engraving  
+While conducting experiments with an insulated rod connected to a kite line during a passing thunderstorm, Richmann was struck by a luminous ball that emerged from the rod, hitting him on the forehead and killing him instantly. The accompanying engraver Sokolov was knocked unconscious but survived.
+**Credibility**: high — First scientifically reported fatal ball-lightning event; widely cited in subsequent atmospheric-physics literature.
+**Sources**: Saint Petersburg Academy of Sciences contemporary reports; Stenhoff, Ball Lightning (Springer, 1999)
+
+---
+
+### R. C. Jennison aircraft observation ⭐
+> **Date**: 1963-03-19  
+> **Location**: Passenger aircraft over the Atlantic Ocean (Eastern Airlines flight from New York to Washington reported by Jennison)  
+> **Witnesses**: 1 (R. C. Jennison (University of Kent, atmospheric physicist))  
+> **Evidence**: Jennison's published account in Nature  
+After a brilliant lightning strike, Jennison observed a luminous sphere about 22 cm in diameter emerge from the pilot's cabin and pass down the aisle of the aircraft a few metres in front of him, before continuing through the rear bulkhead. The sphere was approximately spherical, blue-white, and moved smoothly at roughly 1.5 m/s.
+**Credibility**: high — One of the most-cited modern ball-lightning observations.
+**Sources**: Jennison, R. C., 'Ball Lightning', Nature 224, 895 (1969)
+
+---
+
+### Qinghai Plateau spectral measurement ⭐
+> **Date**: 2012-07-23  
+> **Location**: Qinghai Plateau, China — Lanzhou Northwest Normal University field campaign for thunderstorm spectroscopy  
+> **Witnesses**: 3 (Cen Jianyong, Yuan Ping, Xue Simin (Lanzhou Northwest Normal University))  
+> **Evidence**: Optical spectrum data; High-speed video; Physical Review Letters paper (2014)  
+During a routine thunderstorm observation campaign, the team's slitless spectrographs and high-speed video captured a natural ball lightning event lasting approximately 1.6 seconds, occurring on the ground after a nearby lightning strike. The optical spectrum showed strong emission lines of silicon, iron, and calcium — consistent with vaporised soil constituents.
+**Credibility**: high — First published spectroscopic measurement of a natural ball-lightning event.
+**Sources**: Cen, J., Yuan, P., Xue, S., Physical Review Letters 112, 035001 (2014)
+
+---
+
 
 ## Evidence
 
-### Scientific Documentation: ✓ CONFIRMED
+### Video
 
-| Type | Description | Status |
-|------|-------------|--------|
-| Spectroscopic data | Lanzhou 2012 observation | ✓ CONFIRMED |
-| Video footage | Multiple recordings | ✓ CONFIRMED |
-| Multiple witnesses | Thousands of credible reports | ✓ CONFIRMED |
-| Laboratory recreation | Partial success (2006) | Partial |
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Cen et al. 2012 Qinghai high-speed video and spectrum | 2012 | High-speed video and slitless-spectrum recording of a natural ball-lightning event captured during a Lanzhou Northwest Normal University field campaign on the Qinghai Plateau. | verified |
+### Documentary
 
-### Notable Observations
-
-**1. Lanzhou Spectroscopic Observation (2012)** ⭐
-- **First scientific data** on ball lightning
-- Video and spectroscopic analysis
-- Showed silicon, iron, calcium composition
-- Published in *Physical Review Letters* (2014)
-- **Credibility**: CONFIRMED
-
-**2. Great Thunderstorm of Widecombe (1638)**
-- Ball lightning entered church during service
-- 4 killed, 60 injured
-- Multiple witnesses
-- Contemporary documentation
-- **Credibility**: High (historical)
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Stenhoff, Ball Lightning: An Unsolved Problem in Atmospheric Physics | 1999 | The principal modern English-language scholarly monograph on ball lightning. | verified |
 
 ---
-
 ## Theories & Explanations
 
-### Leading Scientific Theories
+### Scientific
 
-**1. Silicon Vaporization Theory** (Most Supported)
+**Silicon nanoparticle / vaporised-soil hypothesis** _(John Abrahamson, James Dinniss)_
 
-Proposed by John Abrahamson and James Dinniss (2000)
+When a lightning strike vaporises silicon-bearing soil, the resulting silicon nanoparticles oxidise slowly in air, releasing energy as light over seconds — producing a glowing sphere. Supported by the 2012 Qinghai spectrum.
 
-**Mechanism**:
-- Lightning strikes silica-containing soil
-- Vaporizes silicon
-- Creates glowing orb of oxidizing silicon vapor
-- Energy released as nanoparticles oxidize
+**Microwave cavity / trapped plasma hypothesis** _(Pyotr Kapitsa)_
 
-**Evidence**:
-✓ 2012 spectroscopic data showed silicon
-✓ Laboratory recreations partially successful
-✓ Matches duration and appearance
-✓ Explains color variations
+Pyotr Kapitsa proposed in 1955 that ball lightning is a plasma sustained by microwave radiation trapped in a roughly spherical resonant cavity, with the lightning channel providing energy.
 
----
+**Spinning plasma vortex / electromagnetic knot models** _(Various plasma physicists)_
 
-**2. Microwave Cavity Theory**
+Various plasma-physics models (Lundquist solutions, magnetic knot configurations) attempt to explain stable, long-lived spherical plasma structures.
 
-Proposed by Pyotr Kapitsa (1955)
+**Magnetic-induction hallucination hypothesis** _(Vernon Cooray, Gerald Cooray)_
 
-**Mechanism**:
-- Ball lightning is microwave radiation trapped in plasma sphere
-- Microwaves bounce within ionized air cavity
-- Creates self-sustaining luminous ball
+Cooray and Cooray (2008) proposed that strong, transient magnetic fields from nearby cloud-to-ground strikes can stimulate the visual cortex, producing a perception of a glowing sphere — a 'phosphene' phenomenon — that some witnesses report as ball lightning.
 
-**Evidence**:
-- Explains electromagnetic effects
-- Accounts for movement patterns
-- Matches energy requirements
+### Skeptical
 
----
+**Misperception / ordinary lightning afterimage** _(Various atmospheric physicists)_
 
-**3. Plasma Vortex Theory**
+Some reports may be ordinary lightning afterimages, St. Elmo's fire, burning embers, or other misperceptions; reporting bias and difficulty replicating the phenomenon in the lab support a sceptical view of any single mechanism.
 
-**Mechanism**:
-- Self-contained plasma vortex
-- Sustained by atmospheric electrical conditions
-- Magnetic fields confine plasma
 
-**Evidence**:
-- Explains luminosity
-- Accounts for duration
-- Matches electrical properties
+## Popular Culture
+
+**Literature**: Cixin Liu, Ball Lightning (球状闪电) (2004; English translation 2018) — science fiction novel built around the phenomenon; Multiple references in 19th-century French and Russian atmospheric-electricity essays (Arago, Pleshakov)
+
+**Film / TV**: Documentaries on atmospheric phenomena (BBC Horizon, NOVA)
+
+**Other**: Frequent newspaper-of-record reporting throughout the 19th-21st centuries
 
 ---
+## Research
 
-**4. Atmospheric Maser Theory**
+### Researchers
 
-**Mechanism**:
-- Microwave amplification by stimulated emission
-- Creates concentrated energy sphere
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Mark Stenhoff | Independent atmospheric physicist (UK) | Author of the principal modern scholarly monograph on ball lightning (Springer, 1999). | 1980s-2000s |
+| Stanley Singer | Atmospheric physicist (US) | Author of The Nature of Ball Lightning (Plenum, 1971; 2nd ed. 2014). | 1960s-2010s |
+| John Abrahamson | University of Canterbury, New Zealand (chemical engineering) | Co-proposed the silicon-vaporisation hypothesis (Nature, 2000). | 1990s-2010s |
+| Cen Jianyong, Yuan Ping, Xue Simin | Lanzhou Northwest Normal University (China) | Made the first optical-spectrum measurement of a natural ball-lightning event (2012; PRL 2014). | 2010s |
+| Pyotr Kapitsa | Institute for Physical Problems, Moscow | Proposed the microwave-cavity hypothesis (1955). | 1950s |
+| R. C. Jennison | University of Kent (radio astronomy) | Recorded the most-cited modern aircraft-cabin observation (Nature, 1969). | 1960s-1970s |
 
----
+### Organizations
 
-**5. Nanoparticle Network Theory**
+- [International Symposium on Ball Lightning (ISBL)](#) — Recurring international workshop series for ball-lightning research.
 
-**Mechanism**:
-- Lightning creates network of nanoparticles
-- Particles oxidize, releasing energy as light
-
-**Evidence**:
-- 2006 laboratory experiments
-- Spectroscopic data consistent
-- Explains combustion-like behavior
-
-### Why It Remains Unexplained
-
-Despite theories, no single explanation accounts for:
-- All reported colors
-- Variable duration
-- Alleged penetration of solid objects
-- Energy source and storage
-- Formation without visible lightning
-- Rare occurrence
-
-**The mystery continues.**
+Active programmes include experimental plasma generation, statistical analysis of report databases (e.g. Smirnov's compilations), and field-spectroscopy campaigns.
 
 ---
+## Sources
 
-## Laboratory Recreation
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-### Successful Attempts
 
-**2006: Brazilian Researchers**
-- Used silicon wafers
-- Created ball-lightning-like phenomenon
-- Lasted several seconds
-- Published in *Physical Review Letters*
+## How to Report a Sighting
 
-**Status**: Partial success — created similar phenomenon but may not be identical to natural ball lightning
-
-### Challenges
-- Reproducing all reported characteristics
-- Understanding energy storage mechanism
-- Recreating rare natural conditions
-- Confirming laboratory balls match natural phenomenon
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
-## Safety Considerations
-
-### If You Encounter Ball Lightning
-
-**DO**:
-- Stay calm and observe from distance
-- Move away slowly if indoors
-- Avoid touching it
-- Document if safe (photo/video)
-
-**DON'T**:
-- Approach or touch it
-- Assume it's harmless
-- Panic and make sudden movements
-
-**Danger Level**: Uncertain — reports range from harmless to fatal
-
-**Historical incidents**: 
-- Burns reported
-- Explosions documented
-- Electromagnetic interference
-- Some fatalities recorded
-
----
-
-## Cultural & Historical Significance
-
-### Folklore Interpretations
-- Spirits or ghosts (various cultures)
-- Divine manifestations
-- Omens or portents
-- Will-o'-the-wisp legends
-
-### Scientific Importance
-- Challenge to atmospheric physics
-- Tests limits of plasma theory
-- Drives experimental techniques
-- Exemplifies unexplained natural phenomena
-
----
-
-## Current Research
-
-### Active Areas of Study
-- Formation mechanisms
-- Energy source and storage
-- Composition and structure
-- Laboratory recreation
-- Theoretical modeling
-
-### Notable Researchers
-
-| Name | Contribution |
-|------|--------------|
-| John Abrahamson | Silicon vaporization theory (2000) |
-| Jianyong Cen | First spectroscopic observation (2012) |
-| Stanley Singer | Comprehensive report analysis |
-
----
-
-## Reporting a Sighting
-
-If you witness ball lightning:
-
-1. **Safety First**: Maintain distance
-2. **Document**: Photo/video if safe
-3. **Record Details**:
-   - Date, time, location
-   - Weather conditions
-   - Size, color, duration
-   - Movement pattern
-   - Sound, smell, other effects
-   - Dissipation method
-4. **Report**: Submit to atmospheric physics research organizations
-
----
-
-## Conclusion
-
-Ball lightning is **real** but **unexplained**—a rare intersection of confirmed phenomenon and scientific mystery.
-
-Unlike most "paranormal" phenomena, ball lightning has:
-✓ Thousands of credible eyewitness reports
-✓ Scientific data (spectroscopy, 2012)
-✓ Photographic evidence
-✓ Laboratory partial recreations
-
-Yet it remains:
-✗ Incompletely understood
-✗ Difficult to predict or recreate
-✗ Subject to competing theories
-✗ One of nature's great enigmas
-
-**Ball lightning reminds us that nature still holds mysteries even in our scientific age.**
-
----
-
-## API Reference
-
-Machine-readable data is available in [`api.json`](api.json).
-
-### Data Access
-
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const ballLightning = await wyrd.getPhenomenon('ball-lightning');
-```
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/ball-lightning/main/api.json
-```
-
----
-
-## Sources & References
-
-See [SOURCES.md](SOURCES.md) for complete bibliography.
-
-### Key Scientific Papers
-- Cen, J., et al. (2014). "Observation of the Optical and Spectral Characteristics of Ball Lightning." *Physical Review Letters*, 112(3).
-- Abrahamson, J. & Dinniss, J. (2000). "Ball lightning caused by oxidation of nanoparticle networks." *Nature*, 403, 519-521.
-
-### Primary Sources
-- Stenhoff, M. (1999). *Ball Lightning: An Unsolved Problem in Atmospheric Physics*. Kluwer Academic.
-
----
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-**Status: REAL BUT UNEXPLAINED** ⚡
-
-[Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
